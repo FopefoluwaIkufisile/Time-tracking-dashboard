@@ -5,7 +5,7 @@ const timeframes = {
     study: ["0hrs", "1hrs"],
     exercise: ["1hrs", "1hrs"],
     social: ["1hrs", "3hrs"],
-    selfCare: ["0hrs", "1hrs"]
+    selfcare: ["0hrs", "1hrs"]
   },
   weekly: {
     work: ["32hrs", "36hrs"],
@@ -13,7 +13,7 @@ const timeframes = {
     study: ["4hrs", "7hrs"],
     exercise: ["4hrs", "5hrs"],
     social: ["5hrs", "10hrs"],
-    selfCare: ["2hrs", "2hrs"]
+    selfcare: ["2hrs", "2hrs"]
   },
   monthly: {
     work: ["103hrs", "128hrs"],
@@ -21,7 +21,7 @@ const timeframes = {
     study: ["13hrs", "19hrs"],
     exercise: ["11hrs", "18hrs"],
     social: ["21hrs", "23hrs"],
-    selfCare: ["7hrs", "11hrs"]
+    selfcare: ["7hrs", "11hrs"]
   }
 };
 
